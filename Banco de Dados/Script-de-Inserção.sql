@@ -1,0 +1,16 @@
+USE SENAI_PIZZARIAS_EXTRA
+
+-- INSERINDO CATEGORIAS
+INSERT INTO CATEGORIAS
+VALUES('$', '0 - 30'),
+	  ('$$', '30 - 50'),
+	  ('$$$', 'Acima de 50')
+
+-- INSERINDO PIZZARIAS
+INSERT INTO PIZZARIAS
+VALUES ('Donatelo', 'R. Maria Curupaiti, 1384', '2208-8490', 1 , 2),
+		('14 Bis', 'Av. Águia de Haia, 4432', '2414-1414', 0 , 1)
+
+-- INSERINDO USUARIOS
+INSERT INTO USUARIOS
+VALUES ('Gandolf', '132')
