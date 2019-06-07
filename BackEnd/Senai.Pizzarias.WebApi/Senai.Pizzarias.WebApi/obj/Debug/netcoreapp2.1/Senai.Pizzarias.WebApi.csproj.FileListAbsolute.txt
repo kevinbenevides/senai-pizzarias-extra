@@ -1,0 +1,14 @@
+C:\Users\user\Documents\senai-pizzarias-extra\BackEnd\Senai.Pizzarias.WebApi\Senai.Pizzarias.WebApi\bin\Debug\netcoreapp2.1\Senai.Pizzarias.WebApi.deps.json
+C:\Users\user\Documents\senai-pizzarias-extra\BackEnd\Senai.Pizzarias.WebApi\Senai.Pizzarias.WebApi\bin\Debug\netcoreapp2.1\Senai.Pizzarias.WebApi.runtimeconfig.json
+C:\Users\user\Documents\senai-pizzarias-extra\BackEnd\Senai.Pizzarias.WebApi\Senai.Pizzarias.WebApi\bin\Debug\netcoreapp2.1\Senai.Pizzarias.WebApi.runtimeconfig.dev.json
+C:\Users\user\Documents\senai-pizzarias-extra\BackEnd\Senai.Pizzarias.WebApi\Senai.Pizzarias.WebApi\bin\Debug\netcoreapp2.1\Senai.Pizzarias.WebApi.dll
+C:\Users\user\Documents\senai-pizzarias-extra\BackEnd\Senai.Pizzarias.WebApi\Senai.Pizzarias.WebApi\obj\Debug\netcoreapp2.1\Senai.Pizzarias.WebApi.csprojAssemblyReference.cache
+C:\Users\user\Documents\senai-pizzarias-extra\BackEnd\Senai.Pizzarias.WebApi\Senai.Pizzarias.WebApi\obj\Debug\netcoreapp2.1\Senai.Pizzarias.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\senai-pizzarias-extra\BackEnd\Senai.Pizzarias.WebApi\Senai.Pizzarias.WebApi\obj\Debug\netcoreapp2.1\Senai.Pizzarias.WebApi.RazorAssemblyInfo.cache
+C:\Users\user\Documents\senai-pizzarias-extra\BackEnd\Senai.Pizzarias.WebApi\Senai.Pizzarias.WebApi\obj\Debug\netcoreapp2.1\Senai.Pizzarias.WebApi.RazorAssemblyInfo.cs
+C:\Users\user\Documents\senai-pizzarias-extra\BackEnd\Senai.Pizzarias.WebApi\Senai.Pizzarias.WebApi\obj\Debug\netcoreapp2.1\Senai.Pizzarias.WebApi.AssemblyInfoInputs.cache
+C:\Users\user\Documents\senai-pizzarias-extra\BackEnd\Senai.Pizzarias.WebApi\Senai.Pizzarias.WebApi\obj\Debug\netcoreapp2.1\Senai.Pizzarias.WebApi.AssemblyInfo.cs
+C:\Users\user\Documents\senai-pizzarias-extra\BackEnd\Senai.Pizzarias.WebApi\Senai.Pizzarias.WebApi\obj\Debug\netcoreapp2.1\Senai.Pizzarias.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\user\Documents\senai-pizzarias-extra\BackEnd\Senai.Pizzarias.WebApi\Senai.Pizzarias.WebApi\bin\Debug\netcoreapp2.1\Senai.Pizzarias.WebApi.pdb
+C:\Users\user\Documents\senai-pizzarias-extra\BackEnd\Senai.Pizzarias.WebApi\Senai.Pizzarias.WebApi\obj\Debug\netcoreapp2.1\Senai.Pizzarias.WebApi.dll
+C:\Users\user\Documents\senai-pizzarias-extra\BackEnd\Senai.Pizzarias.WebApi\Senai.Pizzarias.WebApi\obj\Debug\netcoreapp2.1\Senai.Pizzarias.WebApi.pdb
