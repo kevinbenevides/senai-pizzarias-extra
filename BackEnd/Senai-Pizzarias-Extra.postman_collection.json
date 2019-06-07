@@ -1,0 +1,90 @@
+{
+	"info": {
+		"_postman_id": "decbfd32-e41b-4418-a690-9371728cc06e",
+		"name": "Senai-Pizzarias-Extra",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Pizzarias",
+			"item": [
+				{
+					"name": "Listar Pizzarias",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:5000/api/pizzarias",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"pizzarias"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Cadastra Pizzarias",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n        \"nome\": \"Pede Bis\",\n        \"endereco\": \"R. José Maria Alves de Deus, 125\",\n        \"telefone\": \"2016-1240\",\n        \"opcaoVegana\": true,\n        \"idCategoria\": 3\n    }"
+						},
+						"url": {
+							"raw": "http://localhost:5000/api/pizzarias",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"pizzarias"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Categorias",
+			"item": [
+				{
+					"name": "Lista Categorias",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:5000/api/categorias",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"categorias"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
